@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SkolDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Böker">
+    <Key>
+      <PropertyRef Name="BokNr" />
+    </Key>
+    <Property Name="BokNr" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Title" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Ämne" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="PersonNr" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="Lånedatum" Type="DateTime" Precision="0" />
+    <NavigationProperty Name="Elev" Relationship="Self.FK_Böker_Elever" FromRole="Böker" ToRole="Elever" />
+  </EntityType>
+  <EntityType Name="Elev">
+    <Key>
+      <PropertyRef Name="PersonNr" />
+    </Key>
+    <Property Name="PersonNr" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="Förnamn" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Efternamn" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Böker" Relationship="Self.FK_Böker_Elever" FromRole="Elever" ToRole="Böker" />
+    <NavigationProperty Name="Kurser" Relationship="Self.Läser" FromRole="Elever" ToRole="Kurser" />
+  </EntityType>
+  <EntityType Name="Kurser">
+    <Key>
+      <PropertyRef Name="Kurskod" />
+    </Key>
+    <Property Name="Kurskod" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Kursnamn" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Poäng" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Elever" Relationship="Self.Läser" FromRole="Kurser" ToRole="Elever" />
+  </EntityType>
+  <Association Name="FK_Böker_Elever">
+    <End Role="Elever" Type="SkolDBModel.Elev" Multiplicity="0..1" />
+    <End Role="Böker" Type="Self.Böker" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Elever">
+        <PropertyRef Name="PersonNr" />
+      </Principal>
+      <Dependent Role="Böker">
+        <PropertyRef Name="PersonNr" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="Läser">
+    <End Role="Elever" Type="SkolDBModel.Elev" Multiplicity="*" />
+    <End Role="Kurser" Type="Self.Kurser" Multiplicity="*" />
+  </Association>
+  <EntityContainer Name="SkolDBEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Böker" EntityType="Self.Böker" />
+    <EntitySet Name="Elever" EntityType="SkolDBModel.Elev" />
+    <EntitySet Name="Kurser" EntityType="Self.Kurser" />
+    <AssociationSet Name="FK_Böker_Elever" Association="Self.FK_Böker_Elever">
+      <End Role="Elever" EntitySet="Elever" />
+      <End Role="Böker" EntitySet="Böker" />
+    </AssociationSet>
+    <AssociationSet Name="Läser" Association="Self.Läser">
+      <End Role="Elever" EntitySet="Elever" />
+      <End Role="Kurser" EntitySet="Kurser" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

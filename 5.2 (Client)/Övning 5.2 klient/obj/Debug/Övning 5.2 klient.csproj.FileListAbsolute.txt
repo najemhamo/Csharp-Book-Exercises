@@ -1,0 +1,10 @@
+C:\Users\ebilalm\Documents\Visual Studio 2015\Projects\Programmering 2\Övning 5.2 klient\Övning 5.2 klient\bin\Debug\Övning 5.2 klient.exe.config
+\\hvfs03.intern.hoglandet.se\SkolaHem02$\ebilalm\Visual Studio 2015\Projects\Programmering 2\Övning 5.2 klient\Övning 5.2 klient\bin\Debug\Övning 5.2 klient.exe.config
+\\hvfs03.intern.hoglandet.se\SkolaHem02$\ebilalm\Visual Studio 2015\Projects\Programmering 2\Övning 5.2 klient\Övning 5.2 klient\bin\Debug\Övning 5.2 klient.exe
+\\hvfs03.intern.hoglandet.se\SkolaHem02$\ebilalm\Visual Studio 2015\Projects\Programmering 2\Övning 5.2 klient\Övning 5.2 klient\bin\Debug\Övning 5.2 klient.pdb
+\\hvfs03.intern.hoglandet.se\SkolaHem02$\ebilalm\Visual Studio 2015\Projects\Programmering 2\Övning 5.2 klient\Övning 5.2 klient\obj\Debug\Övning 5.2 klient.csprojResolveAssemblyReference.cache
+\\hvfs03.intern.hoglandet.se\SkolaHem02$\ebilalm\Visual Studio 2015\Projects\Programmering 2\Övning 5.2 klient\Övning 5.2 klient\obj\Debug\Övning_5._2_klient.Form1.resources
+\\hvfs03.intern.hoglandet.se\SkolaHem02$\ebilalm\Visual Studio 2015\Projects\Programmering 2\Övning 5.2 klient\Övning 5.2 klient\obj\Debug\Övning_5._2_klient.Properties.Resources.resources
+\\hvfs03.intern.hoglandet.se\SkolaHem02$\ebilalm\Visual Studio 2015\Projects\Programmering 2\Övning 5.2 klient\Övning 5.2 klient\obj\Debug\Övning 5.2 klient.csproj.GenerateResource.Cache
+\\hvfs03.intern.hoglandet.se\SkolaHem02$\ebilalm\Visual Studio 2015\Projects\Programmering 2\Övning 5.2 klient\Övning 5.2 klient\obj\Debug\Övning 5.2 klient.exe
+\\hvfs03.intern.hoglandet.se\SkolaHem02$\ebilalm\Visual Studio 2015\Projects\Programmering 2\Övning 5.2 klient\Övning 5.2 klient\obj\Debug\Övning 5.2 klient.pdb

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="SkolDBModelStoreContainer" CdmEntityContainer="SkolDBEntities">
+    <EntitySetMapping Name="Böker">
+      <EntityTypeMapping TypeName="SkolDBModel.Böker">
+        <MappingFragment StoreEntitySet="Böker">
+          <ScalarProperty Name="BokNr" ColumnName="BokNr" />
+          <ScalarProperty Name="Title" ColumnName="Title" />
+          <ScalarProperty Name="Ämne" ColumnName="Ämne" />
+          <ScalarProperty Name="PersonNr" ColumnName="PersonNr" />
+          <ScalarProperty Name="Lånedatum" ColumnName="Lånedatum" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Elever">
+      <EntityTypeMapping TypeName="SkolDBModel.Elev">
+        <MappingFragment StoreEntitySet="Elever">
+          <ScalarProperty Name="PersonNr" ColumnName="PersonNr" />
+          <ScalarProperty Name="Förnamn" ColumnName="Förnamn" />
+          <ScalarProperty Name="Efternamn" ColumnName="Efternamn" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Kurser">
+      <EntityTypeMapping TypeName="SkolDBModel.Kurser">
+        <MappingFragment StoreEntitySet="Kurser">
+          <ScalarProperty Name="Kurskod" ColumnName="Kurskod" />
+          <ScalarProperty Name="Kursnamn" ColumnName="Kursnamn" />
+          <ScalarProperty Name="Poäng" ColumnName="Poäng" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <AssociationSetMapping Name="Läser" TypeName="SkolDBModel.Läser" StoreEntitySet="Läser">
+      <EndProperty Name="Elever">
+        <ScalarProperty Name="PersonNr" ColumnName="PersonNr" />
+      </EndProperty>
+      <EndProperty Name="Kurser">
+        <ScalarProperty Name="Kurskod" ColumnName="Kurskod" />
+      </EndProperty>
+    </AssociationSetMapping>
+  </EntityContainerMapping>
+</Mapping>

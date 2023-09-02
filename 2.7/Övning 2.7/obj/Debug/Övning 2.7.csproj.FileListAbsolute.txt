@@ -1,0 +1,8 @@
+\\hvfs03.intern.hoglandet.se\SkolaHem02$\ebilalm\Visual Studio 2015\Projects\Programmering 2\Övning 2.7\Övning 2.7\bin\Debug\Övning 2.7.exe.config
+\\hvfs03.intern.hoglandet.se\SkolaHem02$\ebilalm\Visual Studio 2015\Projects\Programmering 2\Övning 2.7\Övning 2.7\bin\Debug\Övning 2.7.exe
+\\hvfs03.intern.hoglandet.se\SkolaHem02$\ebilalm\Visual Studio 2015\Projects\Programmering 2\Övning 2.7\Övning 2.7\bin\Debug\Övning 2.7.pdb
+\\hvfs03.intern.hoglandet.se\SkolaHem02$\ebilalm\Visual Studio 2015\Projects\Programmering 2\Övning 2.7\Övning 2.7\obj\Debug\Övning 2.7.csprojResolveAssemblyReference.cache
+\\hvfs03.intern.hoglandet.se\SkolaHem02$\ebilalm\Visual Studio 2015\Projects\Programmering 2\Övning 2.7\Övning 2.7\obj\Debug\Övning_2._7.Properties.Resources.resources
+\\hvfs03.intern.hoglandet.se\SkolaHem02$\ebilalm\Visual Studio 2015\Projects\Programmering 2\Övning 2.7\Övning 2.7\obj\Debug\Övning 2.7.csproj.GenerateResource.Cache
+\\hvfs03.intern.hoglandet.se\SkolaHem02$\ebilalm\Visual Studio 2015\Projects\Programmering 2\Övning 2.7\Övning 2.7\obj\Debug\Övning 2.7.exe
+\\hvfs03.intern.hoglandet.se\SkolaHem02$\ebilalm\Visual Studio 2015\Projects\Programmering 2\Övning 2.7\Övning 2.7\obj\Debug\Övning 2.7.pdb

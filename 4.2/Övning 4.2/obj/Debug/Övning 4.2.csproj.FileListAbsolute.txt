@@ -1,0 +1,21 @@
+C:\Users\ebilalm\Documents\Visual Studio 2015\Projects\Programmering 2\Övning 4.2\Övning 4.2\bin\Debug\Övning 4.2.exe.config
+C:\Users\ebilalm\Documents\Visual Studio 2015\Projects\Programmering 2\Övning 4.2\Övning 4.2\bin\Debug\Övning 4.2.exe
+C:\Users\ebilalm\Documents\Visual Studio 2015\Projects\Programmering 2\Övning 4.2\Övning 4.2\bin\Debug\Övning 4.2.pdb
+C:\Users\ebilalm\Documents\Visual Studio 2015\Projects\Programmering 2\Övning 4.2\Övning 4.2\obj\Debug\Övning 4.2.csprojResolveAssemblyReference.cache
+C:\Users\ebilalm\Documents\Visual Studio 2015\Projects\Programmering 2\Övning 4.2\Övning 4.2\obj\Debug\Övning_4._2.Form1.resources
+C:\Users\ebilalm\Documents\Visual Studio 2015\Projects\Programmering 2\Övning 4.2\Övning 4.2\obj\Debug\Övning_4._2.Properties.Resources.resources
+C:\Users\ebilalm\Documents\Visual Studio 2015\Projects\Programmering 2\Övning 4.2\Övning 4.2\obj\Debug\Övning 4.2.csproj.GenerateResource.Cache
+C:\Users\ebilalm\Documents\Visual Studio 2015\Projects\Programmering 2\Övning 4.2\Övning 4.2\obj\Debug\Övning 4.2.exe
+C:\Users\ebilalm\Documents\Visual Studio 2015\Projects\Programmering 2\Övning 4.2\Övning 4.2\obj\Debug\Övning 4.2.pdb
+D:\C# uppgifter\Programmering 2\Övning 4.2\Övning 4.2\bin\Debug\Övning 4.2.exe.config
+D:\C# uppgifter\Programmering 2\Övning 4.2\Övning 4.2\obj\Debug\Övning 4.2.exe
+D:\C# uppgifter\Programmering 2\Övning 4.2\Övning 4.2\obj\Debug\Övning 4.2.pdb
+C:\Users\Najem\Desktop\PC\Programmering 2\4.2\Övning 4.2\bin\Debug\Övning 4.2.exe.config
+C:\Users\Najem\Desktop\PC\Programmering 2\4.2\Övning 4.2\bin\Debug\Övning 4.2.exe
+C:\Users\Najem\Desktop\PC\Programmering 2\4.2\Övning 4.2\bin\Debug\Övning 4.2.pdb
+C:\Users\Najem\Desktop\PC\Programmering 2\4.2\Övning 4.2\obj\Debug\Övning 4.2.csprojAssemblyReference.cache
+C:\Users\Najem\Desktop\PC\Programmering 2\4.2\Övning 4.2\obj\Debug\Övning_4._2.Form1.resources
+C:\Users\Najem\Desktop\PC\Programmering 2\4.2\Övning 4.2\obj\Debug\Övning_4._2.Properties.Resources.resources
+C:\Users\Najem\Desktop\PC\Programmering 2\4.2\Övning 4.2\obj\Debug\Övning 4.2.csproj.GenerateResource.cache
+C:\Users\Najem\Desktop\PC\Programmering 2\4.2\Övning 4.2\obj\Debug\Övning 4.2.exe
+C:\Users\Najem\Desktop\PC\Programmering 2\4.2\Övning 4.2\obj\Debug\Övning 4.2.pdb

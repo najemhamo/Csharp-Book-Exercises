@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SkolDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Böker">
+    <Key>
+      <PropertyRef Name="BokNr" />
+    </Key>
+    <Property Name="BokNr" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Title" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Ämne" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="PersonNr" Type="nchar" MaxLength="10" />
+    <Property Name="Lånedatum" Type="date" />
+  </EntityType>
+  <EntityType Name="Elever">
+    <Key>
+      <PropertyRef Name="PersonNr" />
+    </Key>
+    <Property Name="PersonNr" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="Förnamn" Type="nvarchar" MaxLength="50" />
+    <Property Name="Efternamn" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Kurser">
+    <Key>
+      <PropertyRef Name="Kurskod" />
+    </Key>
+    <Property Name="Kurskod" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Kursnamn" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Poäng" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Läser">
+    <Key>
+      <PropertyRef Name="PersonNr" />
+      <PropertyRef Name="Kurskod" />
+    </Key>
+    <Property Name="PersonNr" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="Kurskod" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_Böker_Elever">
+    <End Role="Elever" Type="Self.Elever" Multiplicity="0..1" />
+    <End Role="Böker" Type="Self.Böker" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Elever">
+        <PropertyRef Name="PersonNr" />
+      </Principal>
+      <Dependent Role="Böker">
+        <PropertyRef Name="PersonNr" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Läser_Elever">
+    <End Role="Elever" Type="Self.Elever" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="Läser" Type="Self.Läser" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Elever">
+        <PropertyRef Name="PersonNr" />
+      </Principal>
+      <Dependent Role="Läser">
+        <PropertyRef Name="PersonNr" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Läser_Kurser">
+    <End Role="Kurser" Type="Self.Kurser" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="Läser" Type="Self.Läser" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Kurser">
+        <PropertyRef Name="Kurskod" />
+      </Principal>
+      <Dependent Role="Läser">
+        <PropertyRef Name="Kurskod" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="SkolDBModelStoreContainer">
+    <EntitySet Name="Böker" EntityType="Self.Böker" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Elever" EntityType="Self.Elever" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Kurser" EntityType="Self.Kurser" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Läser" EntityType="Self.Läser" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Böker_Elever" Association="Self.FK_Böker_Elever">
+      <End Role="Elever" EntitySet="Elever" />
+      <End Role="Böker" EntitySet="Böker" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Läser_Elever" Association="Self.FK_Läser_Elever">
+      <End Role="Elever" EntitySet="Elever" />
+      <End Role="Läser" EntitySet="Läser" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Läser_Kurser" Association="Self.FK_Läser_Kurser">
+      <End Role="Kurser" EntitySet="Kurser" />
+      <End Role="Läser" EntitySet="Läser" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

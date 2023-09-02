@@ -1,0 +1,38 @@
+\\hvfs03.intern.hoglandet.se\SkolaHem02$\ebilalm\Visual Studio 2015\Projects\Programmering 2\Övning 1.1\Övning 1.1\bin\Debug\Övning 1.1.exe.config
+\\hvfs03.intern.hoglandet.se\SkolaHem02$\ebilalm\Visual Studio 2015\Projects\Programmering 2\Övning 1.1\Övning 1.1\bin\Debug\Övning 1.1.exe
+\\hvfs03.intern.hoglandet.se\SkolaHem02$\ebilalm\Visual Studio 2015\Projects\Programmering 2\Övning 1.1\Övning 1.1\bin\Debug\Övning 1.1.pdb
+\\hvfs03.intern.hoglandet.se\SkolaHem02$\ebilalm\Visual Studio 2015\Projects\Programmering 2\Övning 1.1\Övning 1.1\obj\Debug\Övning 1.1.csprojResolveAssemblyReference.cache
+\\hvfs03.intern.hoglandet.se\SkolaHem02$\ebilalm\Visual Studio 2015\Projects\Programmering 2\Övning 1.1\Övning 1.1\obj\Debug\Övning_1._1.Form1.resources
+\\hvfs03.intern.hoglandet.se\SkolaHem02$\ebilalm\Visual Studio 2015\Projects\Programmering 2\Övning 1.1\Övning 1.1\obj\Debug\Övning_1._1.Properties.Resources.resources
+\\hvfs03.intern.hoglandet.se\SkolaHem02$\ebilalm\Visual Studio 2015\Projects\Programmering 2\Övning 1.1\Övning 1.1\obj\Debug\Övning 1.1.csproj.GenerateResource.Cache
+\\hvfs03.intern.hoglandet.se\SkolaHem02$\ebilalm\Visual Studio 2015\Projects\Programmering 2\Övning 1.1\Övning 1.1\obj\Debug\Övning 1.1.exe
+\\hvfs03.intern.hoglandet.se\SkolaHem02$\ebilalm\Visual Studio 2015\Projects\Programmering 2\Övning 1.1\Övning 1.1\obj\Debug\Övning 1.1.pdb
+K:\C# uppgifter\Programmering 2\Övning 1.1\Övning 1.1\bin\Debug\Övning 1.1.exe.config
+K:\C# uppgifter\Programmering 2\Övning 1.1\Övning 1.1\obj\Debug\Övning 1.1.exe
+K:\C# uppgifter\Programmering 2\Övning 1.1\Övning 1.1\obj\Debug\Övning 1.1.pdb
+K:\C# uppgifter\Programmering 2\Övning 1.1\Övning 1.1\bin\Debug\Övning 1.1.exe
+K:\C# uppgifter\Programmering 2\Övning 1.1\Övning 1.1\bin\Debug\Övning 1.1.pdb
+K:\C# uppgifter\Programmering 2\Övning 1.1\Övning 1.1\obj\Debug\Övning 1.1.csprojResolveAssemblyReference.cache
+K:\C# uppgifter\Programmering 2\Övning 1.1\Övning 1.1\obj\Debug\Övning_1._1.Form1.resources
+K:\C# uppgifter\Programmering 2\Övning 1.1\Övning 1.1\obj\Debug\Övning_1._1.Properties.Resources.resources
+K:\C# uppgifter\Programmering 2\Övning 1.1\Övning 1.1\obj\Debug\Övning 1.1.csproj.GenerateResource.Cache
+C:\Users\Najem\Desktop\Programmering 2\Övning 1.1\Övning 1.1\bin\Debug\Övning 1.1.exe.config
+C:\Users\Najem\Desktop\Programmering 2\Övning 1.1\Övning 1.1\bin\Debug\Övning 1.1.exe
+C:\Users\Najem\Desktop\Programmering 2\Övning 1.1\Övning 1.1\bin\Debug\Övning 1.1.pdb
+C:\Users\Najem\Desktop\Programmering 2\Övning 1.1\Övning 1.1\obj\Debug\Övning 1.1.csprojAssemblyReference.cache
+C:\Users\Najem\Desktop\Programmering 2\Övning 1.1\Övning 1.1\obj\Debug\Övning_1._1.Form1.resources
+C:\Users\Najem\Desktop\Programmering 2\Övning 1.1\Övning 1.1\obj\Debug\Övning_1._1.Properties.Resources.resources
+C:\Users\Najem\Desktop\Programmering 2\Övning 1.1\Övning 1.1\obj\Debug\Övning 1.1.csproj.GenerateResource.cache
+C:\Users\Najem\Desktop\Programmering 2\Övning 1.1\Övning 1.1\obj\Debug\Övning 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Najem\Desktop\Programmering 2\Övning 1.1\Övning 1.1\obj\Debug\Övning 1.1.exe
+C:\Users\Najem\Desktop\Programmering 2\Övning 1.1\Övning 1.1\obj\Debug\Övning 1.1.pdb
+C:\Users\Najem\Desktop\PC\Programmering 2\Övning 1.1\Övning 1.1\bin\Debug\Övning 1.1.exe.config
+C:\Users\Najem\Desktop\PC\Programmering 2\Övning 1.1\Övning 1.1\bin\Debug\Övning 1.1.exe
+C:\Users\Najem\Desktop\PC\Programmering 2\Övning 1.1\Övning 1.1\bin\Debug\Övning 1.1.pdb
+C:\Users\Najem\Desktop\PC\Programmering 2\Övning 1.1\Övning 1.1\obj\Debug\Övning 1.1.csprojAssemblyReference.cache
+C:\Users\Najem\Desktop\PC\Programmering 2\Övning 1.1\Övning 1.1\obj\Debug\Övning_1._1.Form1.resources
+C:\Users\Najem\Desktop\PC\Programmering 2\Övning 1.1\Övning 1.1\obj\Debug\Övning_1._1.Properties.Resources.resources
+C:\Users\Najem\Desktop\PC\Programmering 2\Övning 1.1\Övning 1.1\obj\Debug\Övning 1.1.csproj.GenerateResource.cache
+C:\Users\Najem\Desktop\PC\Programmering 2\Övning 1.1\Övning 1.1\obj\Debug\Övning 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Najem\Desktop\PC\Programmering 2\Övning 1.1\Övning 1.1\obj\Debug\Övning 1.1.exe
+C:\Users\Najem\Desktop\PC\Programmering 2\Övning 1.1\Övning 1.1\obj\Debug\Övning 1.1.pdb

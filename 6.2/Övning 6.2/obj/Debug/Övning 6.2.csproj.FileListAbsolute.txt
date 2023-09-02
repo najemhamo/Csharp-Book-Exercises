@@ -1,0 +1,31 @@
+\\hvfs03.intern.hoglandet.se\SkolaHem02$\ebilalm\Visual Studio 2015\Projects\Programmering 2\Övning 6.2\Övning 6.2\bin\Debug\Övning 6.2.exe.config
+D:\C# uppgifter\Programmering 2\Övning 6.2\Övning 6.2\bin\Debug\Övning 6.2.exe.config
+C:\Users\ebilalm\Documents\Visual Studio 2015\Projects\Programmering 2\Övning 6.2\Övning 6.2\bin\Debug\Övning 6.2.exe.config
+C:\Users\ebilalm\Documents\Visual Studio 2015\Projects\Programmering 2\Övning 6.2\Övning 6.2\bin\Debug\SkolDB.mdf
+C:\Users\ebilalm\Documents\Visual Studio 2015\Projects\Programmering 2\Övning 6.2\Övning 6.2\bin\Debug\SkolDB_log.ldf
+C:\Users\ebilalm\Documents\Visual Studio 2015\Projects\Programmering 2\Övning 6.2\Övning 6.2\bin\Debug\Övning 6.2.exe
+C:\Users\ebilalm\Documents\Visual Studio 2015\Projects\Programmering 2\Övning 6.2\Övning 6.2\bin\Debug\Övning 6.2.pdb
+C:\Users\ebilalm\Documents\Visual Studio 2015\Projects\Programmering 2\Övning 6.2\Övning 6.2\bin\Debug\EntityFramework.dll
+C:\Users\ebilalm\Documents\Visual Studio 2015\Projects\Programmering 2\Övning 6.2\Övning 6.2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ebilalm\Documents\Visual Studio 2015\Projects\Programmering 2\Övning 6.2\Övning 6.2\bin\Debug\EntityFramework.xml
+C:\Users\ebilalm\Documents\Visual Studio 2015\Projects\Programmering 2\Övning 6.2\Övning 6.2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ebilalm\Documents\Visual Studio 2015\Projects\Programmering 2\Övning 6.2\Övning 6.2\obj\Debug\Övning 6.2.csprojResolveAssemblyReference.cache
+C:\Users\ebilalm\Documents\Visual Studio 2015\Projects\Programmering 2\Övning 6.2\Övning 6.2\obj\Debug\Övning_6._2.Form1.resources
+C:\Users\ebilalm\Documents\Visual Studio 2015\Projects\Programmering 2\Övning 6.2\Övning 6.2\obj\Debug\Övning_6._2.Properties.Resources.resources
+C:\Users\ebilalm\Documents\Visual Studio 2015\Projects\Programmering 2\Övning 6.2\Övning 6.2\obj\Debug\Övning 6.2.csproj.GenerateResource.Cache
+C:\Users\ebilalm\Documents\Visual Studio 2015\Projects\Programmering 2\Övning 6.2\Övning 6.2\obj\Debug\Övning 6.2.exe
+C:\Users\ebilalm\Documents\Visual Studio 2015\Projects\Programmering 2\Övning 6.2\Övning 6.2\obj\Debug\Övning 6.2.pdb
+\\hvfs03.intern.hoglandet.se\SkolaHem02$\ebilalm\Visual Studio 2015\Projects\Programmering 2\Övning 6.2\Övning 6.2\obj\Debug\Övning 6.2.exe
+\\hvfs03.intern.hoglandet.se\SkolaHem02$\ebilalm\Visual Studio 2015\Projects\Programmering 2\Övning 6.2\Övning 6.2\obj\Debug\Övning 6.2.pdb
+\\hvfs03.intern.hoglandet.se\SkolaHem02$\ebilalm\Visual Studio 2015\Projects\Programmering 2\Övning 6.2\Övning 6.2\bin\Debug\SkolDB.mdf
+\\hvfs03.intern.hoglandet.se\SkolaHem02$\ebilalm\Visual Studio 2015\Projects\Programmering 2\Övning 6.2\Övning 6.2\bin\Debug\SkolDB_log.ldf
+\\hvfs03.intern.hoglandet.se\SkolaHem02$\ebilalm\Visual Studio 2015\Projects\Programmering 2\Övning 6.2\Övning 6.2\bin\Debug\Övning 6.2.exe
+\\hvfs03.intern.hoglandet.se\SkolaHem02$\ebilalm\Visual Studio 2015\Projects\Programmering 2\Övning 6.2\Övning 6.2\bin\Debug\Övning 6.2.pdb
+\\hvfs03.intern.hoglandet.se\SkolaHem02$\ebilalm\Visual Studio 2015\Projects\Programmering 2\Övning 6.2\Övning 6.2\bin\Debug\EntityFramework.dll
+\\hvfs03.intern.hoglandet.se\SkolaHem02$\ebilalm\Visual Studio 2015\Projects\Programmering 2\Övning 6.2\Övning 6.2\bin\Debug\EntityFramework.SqlServer.dll
+\\hvfs03.intern.hoglandet.se\SkolaHem02$\ebilalm\Visual Studio 2015\Projects\Programmering 2\Övning 6.2\Övning 6.2\bin\Debug\EntityFramework.xml
+\\hvfs03.intern.hoglandet.se\SkolaHem02$\ebilalm\Visual Studio 2015\Projects\Programmering 2\Övning 6.2\Övning 6.2\bin\Debug\EntityFramework.SqlServer.xml
+\\hvfs03.intern.hoglandet.se\SkolaHem02$\ebilalm\Visual Studio 2015\Projects\Programmering 2\Övning 6.2\Övning 6.2\obj\Debug\Övning 6.2.csprojResolveAssemblyReference.cache
+\\hvfs03.intern.hoglandet.se\SkolaHem02$\ebilalm\Visual Studio 2015\Projects\Programmering 2\Övning 6.2\Övning 6.2\obj\Debug\Övning_6._2.Form1.resources
+\\hvfs03.intern.hoglandet.se\SkolaHem02$\ebilalm\Visual Studio 2015\Projects\Programmering 2\Övning 6.2\Övning 6.2\obj\Debug\Övning_6._2.Properties.Resources.resources
+\\hvfs03.intern.hoglandet.se\SkolaHem02$\ebilalm\Visual Studio 2015\Projects\Programmering 2\Övning 6.2\Övning 6.2\obj\Debug\Övning 6.2.csproj.GenerateResource.Cache

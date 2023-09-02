@@ -1,0 +1,18 @@
+\\hvfs03.intern.hoglandet.se\SkolaHem02$\ebilalm\Visual Studio 2015\Projects\Programmering 2\Övning 5.4 klient\Övning 5.4 klient\bin\Debug\Övning 5.4 klient.exe.config
+\\hvfs03.intern.hoglandet.se\SkolaHem02$\ebilalm\Visual Studio 2015\Projects\Programmering 2\Övning 5.4 klient\Övning 5.4 klient\bin\Debug\Övning 5.4 klient.exe
+\\hvfs03.intern.hoglandet.se\SkolaHem02$\ebilalm\Visual Studio 2015\Projects\Programmering 2\Övning 5.4 klient\Övning 5.4 klient\bin\Debug\Övning 5.4 klient.pdb
+\\hvfs03.intern.hoglandet.se\SkolaHem02$\ebilalm\Visual Studio 2015\Projects\Programmering 2\Övning 5.4 klient\Övning 5.4 klient\obj\Debug\Övning 5.4 klient.csprojResolveAssemblyReference.cache
+\\hvfs03.intern.hoglandet.se\SkolaHem02$\ebilalm\Visual Studio 2015\Projects\Programmering 2\Övning 5.4 klient\Övning 5.4 klient\obj\Debug\Övning_5._4_klient.Form1.resources
+\\hvfs03.intern.hoglandet.se\SkolaHem02$\ebilalm\Visual Studio 2015\Projects\Programmering 2\Övning 5.4 klient\Övning 5.4 klient\obj\Debug\Övning_5._4_klient.Properties.Resources.resources
+\\hvfs03.intern.hoglandet.se\SkolaHem02$\ebilalm\Visual Studio 2015\Projects\Programmering 2\Övning 5.4 klient\Övning 5.4 klient\obj\Debug\Övning 5.4 klient.csproj.GenerateResource.Cache
+\\hvfs03.intern.hoglandet.se\SkolaHem02$\ebilalm\Visual Studio 2015\Projects\Programmering 2\Övning 5.4 klient\Övning 5.4 klient\obj\Debug\Övning 5.4 klient.exe
+\\hvfs03.intern.hoglandet.se\SkolaHem02$\ebilalm\Visual Studio 2015\Projects\Programmering 2\Övning 5.4 klient\Övning 5.4 klient\obj\Debug\Övning 5.4 klient.pdb
+C:\Users\Najem\Desktop\PC\Programmering 2\5.4 (klient)\Övning 5.4 klient\bin\Debug\Övning 5.4 klient.exe.config
+C:\Users\Najem\Desktop\PC\Programmering 2\5.4 (klient)\Övning 5.4 klient\bin\Debug\Övning 5.4 klient.exe
+C:\Users\Najem\Desktop\PC\Programmering 2\5.4 (klient)\Övning 5.4 klient\bin\Debug\Övning 5.4 klient.pdb
+C:\Users\Najem\Desktop\PC\Programmering 2\5.4 (klient)\Övning 5.4 klient\obj\Debug\Övning 5.4 klient.csprojAssemblyReference.cache
+C:\Users\Najem\Desktop\PC\Programmering 2\5.4 (klient)\Övning 5.4 klient\obj\Debug\Övning_5._4_klient.Form1.resources
+C:\Users\Najem\Desktop\PC\Programmering 2\5.4 (klient)\Övning 5.4 klient\obj\Debug\Övning_5._4_klient.Properties.Resources.resources
+C:\Users\Najem\Desktop\PC\Programmering 2\5.4 (klient)\Övning 5.4 klient\obj\Debug\Övning 5.4 klient.csproj.GenerateResource.cache
+C:\Users\Najem\Desktop\PC\Programmering 2\5.4 (klient)\Övning 5.4 klient\obj\Debug\Övning 5.4 klient.exe
+C:\Users\Najem\Desktop\PC\Programmering 2\5.4 (klient)\Övning 5.4 klient\obj\Debug\Övning 5.4 klient.pdb

@@ -1,0 +1,28 @@
+C:\Users\ebilalm\Documents\Visual Studio 2015\Projects\Programmering 2\Övning 1.3\Övning 1.3\bin\Debug\Övning 1.3.exe.config
+C:\Users\ebilalm\Documents\Visual Studio 2015\Projects\Programmering 2\Övning 1.3\Övning 1.3\bin\Debug\Övning 1.3.exe
+C:\Users\ebilalm\Documents\Visual Studio 2015\Projects\Programmering 2\Övning 1.3\Övning 1.3\bin\Debug\Övning 1.3.pdb
+C:\Users\ebilalm\Documents\Visual Studio 2015\Projects\Programmering 2\Övning 1.3\Övning 1.3\obj\Debug\Övning 1.3.csprojResolveAssemblyReference.cache
+C:\Users\ebilalm\Documents\Visual Studio 2015\Projects\Programmering 2\Övning 1.3\Övning 1.3\obj\Debug\Övning_1._3.Form1.resources
+C:\Users\ebilalm\Documents\Visual Studio 2015\Projects\Programmering 2\Övning 1.3\Övning 1.3\obj\Debug\Övning_1._3.Properties.Resources.resources
+C:\Users\ebilalm\Documents\Visual Studio 2015\Projects\Programmering 2\Övning 1.3\Övning 1.3\obj\Debug\Övning 1.3.csproj.GenerateResource.Cache
+C:\Users\ebilalm\Documents\Visual Studio 2015\Projects\Programmering 2\Övning 1.3\Övning 1.3\obj\Debug\Övning 1.3.exe
+C:\Users\ebilalm\Documents\Visual Studio 2015\Projects\Programmering 2\Övning 1.3\Övning 1.3\obj\Debug\Övning 1.3.pdb
+K:\C# uppgifter\Programmering 2\Övning 1.3\Övning 1.3\bin\Debug\Övning 1.3.exe.config
+K:\C# uppgifter\Programmering 2\Övning 1.3\Övning 1.3\obj\Debug\Övning 1.3.exe
+K:\C# uppgifter\Programmering 2\Övning 1.3\Övning 1.3\obj\Debug\Övning 1.3.pdb
+K:\C# uppgifter\Programmering 2\Övning 1.3\Övning 1.3\bin\Debug\Övning 1.3.exe
+K:\C# uppgifter\Programmering 2\Övning 1.3\Övning 1.3\bin\Debug\Övning 1.3.pdb
+K:\C# uppgifter\Programmering 2\Övning 1.3\Övning 1.3\obj\Debug\Övning 1.3.csprojResolveAssemblyReference.cache
+K:\C# uppgifter\Programmering 2\Övning 1.3\Övning 1.3\obj\Debug\Övning_1._3.Form1.resources
+K:\C# uppgifter\Programmering 2\Övning 1.3\Övning 1.3\obj\Debug\Övning_1._3.Properties.Resources.resources
+K:\C# uppgifter\Programmering 2\Övning 1.3\Övning 1.3\obj\Debug\Övning 1.3.csproj.GenerateResource.Cache
+C:\Users\Najem\Desktop\PC\Programmering 2\Övning 1.3\Övning 1.3\bin\Debug\Övning 1.3.exe.config
+C:\Users\Najem\Desktop\PC\Programmering 2\Övning 1.3\Övning 1.3\bin\Debug\Övning 1.3.exe
+C:\Users\Najem\Desktop\PC\Programmering 2\Övning 1.3\Övning 1.3\bin\Debug\Övning 1.3.pdb
+C:\Users\Najem\Desktop\PC\Programmering 2\Övning 1.3\Övning 1.3\obj\Debug\Övning 1.3.csprojAssemblyReference.cache
+C:\Users\Najem\Desktop\PC\Programmering 2\Övning 1.3\Övning 1.3\obj\Debug\Övning_1._3.Form1.resources
+C:\Users\Najem\Desktop\PC\Programmering 2\Övning 1.3\Övning 1.3\obj\Debug\Övning_1._3.Properties.Resources.resources
+C:\Users\Najem\Desktop\PC\Programmering 2\Övning 1.3\Övning 1.3\obj\Debug\Övning 1.3.csproj.GenerateResource.cache
+C:\Users\Najem\Desktop\PC\Programmering 2\Övning 1.3\Övning 1.3\obj\Debug\Övning 1.3.csproj.CoreCompileInputs.cache
+C:\Users\Najem\Desktop\PC\Programmering 2\Övning 1.3\Övning 1.3\obj\Debug\Övning 1.3.exe
+C:\Users\Najem\Desktop\PC\Programmering 2\Övning 1.3\Övning 1.3\obj\Debug\Övning 1.3.pdb

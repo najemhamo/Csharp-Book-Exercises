@@ -1,0 +1,103 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.IO;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Övning_6._2
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+        private void VisaElever()
+        {
+            col1.Visible = true;
+            col2.Visible = true;
+            col3.Visible = true;
+            col4.Visible = false;
+            col5.Visible = false;
+            dataVy.Columns[0].HeaderText = "PersonNr";
+            dataVy.Columns[1].HeaderText = "Förnamn";
+            dataVy.Columns[2].HeaderText = "Efternamn";
+            dataVy.Rows.Clear();
+
+            using(var db = new SkolDBEntities())
+            {
+                var urval = from elev in db.Elever select elev;
+                foreach(var elev in urval)
+                {
+                    dataVy.Rows.Add(elev.PersonNr,elev.Förnamn ,elev.Efternamn);
+                }
+                
+            }
+        }
+
+        private void VisaBöcker()
+        {
+            col4.Visible = true;
+            dataVy.Columns[0].HeaderText = "Title";
+            dataVy.Columns[1].HeaderText = "Ämne";
+            dataVy.Columns[2].HeaderText = "PersonNr";
+            dataVy.Columns[3].HeaderText = "Lånedatum";
+            dataVy.Rows.Clear();
+
+            using (var db = new SkolDBEntities())
+            {
+                var urval = from bok in db.Böker select bok;
+                foreach (var bok in urval)
+                {
+                    dataVy.Rows.Add(bok.Title, bok.Ämne, bok.PersonNr, bok.Lånedatum);
+                }
+            }
+        }
+
+        private void cmdVisaMeny_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            if(cmdVisaMeny.SelectedIndex == 0)
+            {
+                VisaElever();
+            }
+        }
+
+        private void btn_elev_Click(object sender, EventArgs e)
+        {
+            using (var db = new SkolDBEntities())
+            {
+                Elev elev = new Elev();
+                elev.PersonNr = tbx_personNr.Text;
+                elev.Förnamn = tbx_förnamn.Text;
+                elev.Efternamn = tbx_efternamn.Text;
+
+                db.Elever.Add(elev);
+                db.SaveChanges();
+            }
+        }
+
+        private void btn_kurs_Click(object sender, EventArgs e)
+        {
+            using (var db = new SkolDBEntities())
+            {
+                Kurser kurs = new Kurser
+                {
+                    Kurskod = tbx_kusrkod.Text,
+                    Kursnamn = tbx_kursnamn.Text,
+                    Poäng = int.Parse(tbx_poäng.Text)
+                
+                };
+
+                db.Kurser.Add(kurs); 
+                db.SaveChanges();
+            }
+        }
+
+        
+    }
+}

@@ -1,0 +1,8 @@
+\\hvfs03.intern.hoglandet.se\SkolaHem02$\ebilalm\Visual Studio 2015\Projects\Programmering 2\Övning 5.4 Server\Övning 5.4 Server\bin\Debug\Övning 5.4 Server.exe.config
+\\hvfs03.intern.hoglandet.se\SkolaHem02$\ebilalm\Visual Studio 2015\Projects\Programmering 2\Övning 5.4 Server\Övning 5.4 Server\bin\Debug\Övning 5.4 Server.exe
+\\hvfs03.intern.hoglandet.se\SkolaHem02$\ebilalm\Visual Studio 2015\Projects\Programmering 2\Övning 5.4 Server\Övning 5.4 Server\bin\Debug\Övning 5.4 Server.pdb
+\\hvfs03.intern.hoglandet.se\SkolaHem02$\ebilalm\Visual Studio 2015\Projects\Programmering 2\Övning 5.4 Server\Övning 5.4 Server\obj\Debug\Övning_5._4_Server.Form1.resources
+\\hvfs03.intern.hoglandet.se\SkolaHem02$\ebilalm\Visual Studio 2015\Projects\Programmering 2\Övning 5.4 Server\Övning 5.4 Server\obj\Debug\Övning_5._4_Server.Properties.Resources.resources
+\\hvfs03.intern.hoglandet.se\SkolaHem02$\ebilalm\Visual Studio 2015\Projects\Programmering 2\Övning 5.4 Server\Övning 5.4 Server\obj\Debug\Övning 5.4 Server.csproj.GenerateResource.Cache
+\\hvfs03.intern.hoglandet.se\SkolaHem02$\ebilalm\Visual Studio 2015\Projects\Programmering 2\Övning 5.4 Server\Övning 5.4 Server\obj\Debug\Övning 5.4 Server.exe
+\\hvfs03.intern.hoglandet.se\SkolaHem02$\ebilalm\Visual Studio 2015\Projects\Programmering 2\Övning 5.4 Server\Övning 5.4 Server\obj\Debug\Övning 5.4 Server.pdb

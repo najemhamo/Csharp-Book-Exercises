@@ -1,7 +1,8 @@
 # C# Programming book exercises
 
-
-![Book Cover](https://www.gleerups.se/gleerups/product/9907/image-thumb__9907__gleerupsProductDetails/40696373-o.webp)
+<p align="center">
+  <img src="https://www.gleerups.se/gleerups/product/9907/image-thumb__9907__gleerupsProductDetails/40696373-o.webp" alt="Book Cover">
+</p>
 
 
 Welcome to my C# Book Exercises repository! This is where you can find my solutions to the exercises from the book [Programmering 2 C#]. These exercises are implemented as desktop applications in C#.

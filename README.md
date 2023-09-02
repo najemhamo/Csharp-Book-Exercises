@@ -15,7 +15,7 @@ Programming 2 C# requires some programming experience, for example having read t
 The book is spiral-bound for practical use on the computer. The book includes a teacher's website with solutions, test suggestions, extra tasks, and other things that facilitate the teacher's work.
 
 ## Programming 2 C# in brief:
-• It is adapted to the subject plan for programming that applies from Autumn 2017
-• It has a clear structure and well-thought-out exercises
-• Facilitates self-study for students
-• It has updated teaching material on the web
+- It is adapted to the subject plan for programming that applies from Autumn 2017
+- It has a clear structure and well-thought-out exercises
+- Facilitates self-study for students
+- It has updated teaching material on the web
